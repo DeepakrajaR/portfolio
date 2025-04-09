@@ -35,7 +35,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/portfolio.git
+git clone https://github.com/deepakrajaR/portfolio.git
 
 # Navigate to project directory
 cd portfolio
