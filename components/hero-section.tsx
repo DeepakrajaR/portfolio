@@ -75,7 +75,7 @@ export default function HeroSection({ name, role, summary }: HeroSectionProps) {
             }`}
           >
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white/20 shadow-2xl animate-float">
-              <Image src="/placeholder.svg?height=400&width=400" alt={name} fill className="object-cover" priority />
+              <Image src="/profilepic.jpg" alt={name} fill className="object-cover" priority />
             </div>
           </div>
         </div>
