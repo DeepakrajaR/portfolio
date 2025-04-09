@@ -18,7 +18,7 @@ export default function ProjectCard({ project }: ProjectCardProps) {
           src={project.image || "/placeholder.svg"}
           alt={project.title}
           fill
-          className="object-cover transition-transform duration-500 group-hover:scale-105"
+          className="object-fill transition-transform duration-500 group-hover:scale-105"
         />
 
         {/* Overlay gradient on hover */}
